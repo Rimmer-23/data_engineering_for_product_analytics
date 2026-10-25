@@ -33,3 +33,9 @@ logs/
 
 # Claude Code
 CLAUDE.md
+
+# Spark / Iceberg local demo
+warehouse/
+spark-warehouse/
+metastore_db/
+derby.log
